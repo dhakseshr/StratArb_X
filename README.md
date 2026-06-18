@@ -1,3 +1,5 @@
+Name: R Dhaksesh
+
 # StatArb_X — Institutional Statistical Arbitrage Engine
 
 A production-grade statistical arbitrage system implementing pair trading strategies
